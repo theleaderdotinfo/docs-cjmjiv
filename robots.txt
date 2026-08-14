@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-cpa6ee.saturadar88.shop/sitemap.xml
